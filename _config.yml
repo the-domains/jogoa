@@ -13,7 +13,13 @@ collections:
 color:
   saturation: 0.2293233
   brandStrength: 0.5802005
-  lightness: 0.1390978
+  lightness: 0.5075188
+  brandColors:
+    - '#BBB7AF'
+    - '#000000'
+    - '#5790E2'
+    - '#EBF4FE'
+    - '#8E8372'
   rhythmicContrast: 0.966792
 typography_spectrum: 0.4825494
 layout_spectrum: 0
