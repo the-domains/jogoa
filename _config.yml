@@ -1,14 +1,8 @@
 layout_spectrum: 1
-typography_spectrum: 0.4825494
 color:
   saturation: 0.5739349
-  brandStrength: 0.1539084
   lightness: 0.7462406
+  brandStrength: 0.5802005
   rhythmicContrast: 0.7669173
-  brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+typography_spectrum: 0.4825494
 name: Jogoa
