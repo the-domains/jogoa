@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Jogoa]]></title>
         <description><![CDATA[Jogoa]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jogoa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 17:55:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 01 May 2016 17:55:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jogoa/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pirelli Calendar]]></title>
+            <description><![CDATA[<article><h1>Pirelli Calendar</h1><p>PirelliCalendar 2016, enjoy the 'making of' video</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/76b0d39c3c481376670af39cd5f444ecd385c091.jpg"></article>]]></description>
+            <link>http://pirellicalendar.pirelli.com/en/the-cal-2016/home</link>
+            <guid isPermaLink="false">4b0b3f4d-6acd-42d6-a8e4-054e0a4fc03c</guid>
+            <pubDate>Sun, 01 May 2016 17:55:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[70m² office in Marseille]]></title>
             <description><![CDATA[<article><h1>70m² office in Marseille</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/96b80c67a3d4e6c5be2033100d778342af3b0ed9.jpg"></article>]]></description>
