@@ -10,11 +10,11 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.4825494
 color:
   saturation: 0.2293233
   brandStrength: 0.5802005
   lightness: 0.1390978
   rhythmicContrast: 0.966792
-layout_spectrum: 0.5463659
+typography_spectrum: 0.4825494
+layout_spectrum: 0
 name: Jogoa
