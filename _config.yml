@@ -1,3 +1,7 @@
+name: 'Jogoa | Brandstories & Content Marketing'
+favicon: null
+layout_spectrum: 0.7719298
+typography_spectrum: 0.4825494
 collections:
   - index:
       path: /
@@ -10,17 +14,28 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.4825494
+title: 'Van strategie naar het bouwen van brand stories; het verhaal rondom je merk waarmee we consumenten, prospects en klanten kunnen inspireren en binden.  Mijn associates en ik helpen organisaties op een pragmatische manier hun marketing te versnellen. Door eerst scherp te positioneren en vervolgens met op persona geijkte customer journeys te zorgen voor een optimale merkbeleving ondersteund door slimme marketingautomatisering.  Met een continu content marketing programma zorgen we vervolgens voor een constante aanwas van nieuwe contacten en trouwe klanten'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8076441
-  brandStrength: 0.4692982
-  rhythmicContrast: 0.966792
   brandColors:
     - '#000000'
     - '#F9F8F6'
     - '#564B4B'
     - '#D9D2CC'
     - '#998E88'
+  brandStrength: 0.4692982
   lightness: 1
-layout_spectrum: 0.7719298
-name: Jogoa
+  saturation: 0.8076441
+  rhythmicContrast: 0.966792
+purpose: []
