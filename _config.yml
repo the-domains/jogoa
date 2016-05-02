@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.4825494
 color:
   saturation: 0.8076441
   brandStrength: 0.4692982
-  lightness: 1
+  rhythmicContrast: 0.966792
   brandColors:
     - '#000000'
     - '#F9F8F6'
     - '#564B4B'
     - '#D9D2CC'
     - '#998E88'
-  rhythmicContrast: 0.966792
-typography_spectrum: 0.4825494
-layout_spectrum: 0.5219298
+  lightness: 1
+layout_spectrum: 0.7719298
 name: Jogoa
