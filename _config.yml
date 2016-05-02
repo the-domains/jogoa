@@ -12,15 +12,15 @@ collections:
       number: 10
 typography_spectrum: 0.4825494
 color:
-  saturation: 0.2293233
+  saturation: 0.8076441
   brandStrength: 0.4692982
-  rhythmicContrast: 0.966792
+  lightness: 1
   brandColors:
     - '#000000'
     - '#F9F8F6'
     - '#564B4B'
     - '#D9D2CC'
     - '#998E88'
-  lightness: 0.5075188
-layout_spectrum: 0
+  rhythmicContrast: 0.966792
+layout_spectrum: 0.2042606
 name: Jogoa
